@@ -1,7 +1,7 @@
 {{-- Header Start --}}
 
-<div class="p-5 bg-gradient-to-r from-gray-500 to-blue-500 text-white    text-center">
-    <a href="" class=" text-4xl font-poppins text-develobe-900  hover:text-gray-200 duration-200 font-bold ">INFO FILM</a>
+<div class="p-5 bg-gradient-to-r from-indigo-100 to-teal-100 to-teal- text-white    text-center">
+    <a href="" class=" text-4xl font-poppins text-emerald-300  hover:text-cyan-500 duration-200 font-bold ">INFO FILM</a>
 
   </div>
 

@@ -14,7 +14,7 @@
   </style>
   @vite('resources/css/app.css')
 </head>
-<body>
+<body class="bg-gradient-to-b from-violet-100 to-rose-100">
 
 
 {{-- Header Start --}}
